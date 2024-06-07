@@ -8,9 +8,13 @@
   padding: 2rem 1rem 2rem 1rem;
 }
 
-h3 {
+.events > h3 {
   margin-bottom: 0px;
   text-align: center;
   color: white;
   font-weight: 400;
+}
+
+.events {
+  text-decoration: none;
 }
